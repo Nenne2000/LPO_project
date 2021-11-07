@@ -10,14 +10,3 @@
 * `tests/failure/syntax`: test che non passano i controlli di sintassi 
 * `tests/failure/type`: test che non passano i controlli di semantica statica (ossia, senza l'opzione `-ntc`)
 * `tests/failure/ntc`: test che causano errori dinamici con l'opzione `-ntc`
-
-## Modalità di consegna
-
-È sufficiente avere attivato il link di GitHub classroom e rendere disponibili sul repository tutti i sorgenti necessari
-per la compilazione del progetto. Ricordarsi di fare commit e push finali e comunicare il link
-del repository tramite la [consegna su AulaWeb](https://2020.aulaweb.unige.it/mod/assign/view.php?id=21834). 
-La consegna è **unica** per ogni gruppo.
-
-**Importante**: per la consegna è necessario che il progetto passi **tutti i test** contenuti nel folder `tests`.
-Tutti i componenti del gruppo devono aver contribuito attivamente allo sviluppo del progetto comprendendone il funzionamento;
-ciò verrà verificato tramite un colloquio finale **individuale**.
